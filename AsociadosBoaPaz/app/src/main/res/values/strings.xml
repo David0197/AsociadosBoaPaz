@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AsociadosBoaPaz</string>
+
+    <!-- TODO: Strings de Activity de MenuPrincipal-->
+    <string name="Boton_Facebook">Facebook</string>
+    <string name="Boton_Web">Web Oficial</string>
+    <string name="Boton_Instagram">Instagram</string>
+    <string name="Boton_Listener">Reconocimiento de voz</string>
+
+    <!-- TODO: Strings de Activity de First_Use_Activity-->
+    <string name="Boton_Genero_Femenino">Género Femenino</string>
+    <string name="Boton_Genero_Masculino">Género Masculino</string>
+    <string name="Boton_Asistencia_Visual">Discapacidad Visual</string>
+    <string name="Boton_Asistencia_Audible">Discapacidad Audible</string>
+    <string name="Boton_Asistencia_Motora">Discapacidad Motora</string>
+    <string name="Boton_Registrar">Registrar Datos</string>
+
+
+    <!-- TODO: Strings de Activity de AudioNews-->
+    <string name="Boton_Antes">(------</string>
+    <string name="Boton_Despues">------)</string>
+    <string name="Boton_Dia">Día</string>
+    <string name="Boton_Mes">Mes</string>
+    <string name="Boton_Year">Año</string>
+    <string name="Boton_Escuchar_Noticias">Escuchar Noticias</string>
+    <string name="Boton_Volver">Volver al Menú</string>
+
+</resources>
